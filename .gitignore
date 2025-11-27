@@ -1,0 +1,30 @@
+# DEPENDÊNCIAS
+node_modules/
+*/node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# SEGURANÇA 
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+# Especificamente para o seu backend
+server/.env
+
+# ARQUIVOS DE BUILD (Lixo gerado) 
+dist/
+dist-ssr/
+build/
+client/dist/
+
+# ARQUIVOS DE SISTEMA E IDE (Sujeira) 
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+logs/
+*.local

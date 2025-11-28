@@ -16,7 +16,7 @@ Este projeto implementa um **Backend for Frontend (BFF)** para segurança e util
     1.  Analisa as faixas mais ouvidas.
     2.  Atribui peso baseado na posição (Música #1 vale mais que Música #50).
     3.  Calcula e ordena os álbuns por relevância, não apenas por contagem de plays.
-* **UI Moderna:** Interface responsiva construída com **Tailwind CSS**, utilizando conceitos de Glassmorphism e Grid Layouts adaptativos.
+* **UI Moderna:** Interface responsiva construída com **Tailwind CSS**.
 
 ---
 
